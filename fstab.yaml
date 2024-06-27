@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p94863-e1381297.adobeaemcloud.com/bin/franklin.delivery/JiangLong2019/universal-editor-demo/main"
+    url: "https://author-p94863-e1382478.adobeaemcloud.com/bin/franklin.delivery/JiangLong2019/ue-demo/main"
     type: "markup"
     suffix: ".html"
