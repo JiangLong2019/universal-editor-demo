@@ -1,6 +1,5 @@
 {
   "mappings": [
-    "/content/ue-demo/:/",
-    "/content/ue-demo/configuration:/.helix/config.json"
+    "/content/ue-demo/:/"
   ]
 }
